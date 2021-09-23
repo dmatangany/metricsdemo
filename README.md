@@ -12,6 +12,8 @@ This repo showcases the following technologies:
 
 5. Test frameworks
 
+6. OOP/Interfaces
+
 
 dmatangany@gmail.com
 September 2021
